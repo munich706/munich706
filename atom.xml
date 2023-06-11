@@ -6,7 +6,7 @@
   <link href="https://munich706.github.io/atom.xml" rel="self"/>
   
   <link href="https://munich706.github.io/"/>
-  <updated>2023-06-11T06:28:21.883Z</updated>
+  <updated>2023-06-11T13:51:22.374Z</updated>
   <id>https://munich706.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://munich706.github.io/2023/06/11/test/"/>
+    <id>https://munich706.github.io/2023/06/11/test/</id>
+    <published>2023-06-11T13:49:55.000Z</published>
+    <updated>2023-06-11T13:51:22.374Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;This is my contents. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/99I4xXV.png&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
