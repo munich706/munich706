@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Munich706</title>
+  <title>Hippie Screening Studio Munich</title>
   
   
-  <link href="https://munich706.github.io/atom.xml" rel="self"/>
+  <link href="https://www.hss-munich.com/atom.xml" rel="self"/>
   
-  <link href="https://munich706.github.io/"/>
+  <link href="https://www.hss-munich.com/"/>
   <updated>2023-06-11T06:28:21.883Z</updated>
-  <id>https://munich706.github.io/</id>
+  <id>https://www.hss-munich.com/</id>
   
   <author>
-    <name>Munich706</name>
+    <name>HSS-Munich</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://munich706.github.io/2023/06/09/hello-world/"/>
-    <id>https://munich706.github.io/2023/06/09/hello-world/</id>
+    <link href="https://www.hss-munich.com/2023/06/09/hello-world/"/>
+    <id>https://www.hss-munich.com/2023/06/09/hello-world/</id>
     <published>2023-06-09T11:49:27.779Z</published>
     <updated>2023-06-11T06:28:21.883Z</updated>
     
