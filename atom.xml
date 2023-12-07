@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Munich706</title>
+  <title>Hippie Screening Studio Munich</title>
   
   
-  <link href="https://munich706.github.io/atom.xml" rel="self"/>
+  <link href="https://www.hss-munich.com/atom.xml" rel="self"/>
   
-  <link href="https://munich706.github.io/"/>
-  <updated>2023-06-09T12:11:12.023Z</updated>
-  <id>https://munich706.github.io/</id>
+  <link href="https://www.hss-munich.com/"/>
+  <updated>2023-12-07T23:08:24.210Z</updated>
+  <id>https://www.hss-munich.com/</id>
   
   <author>
-    <name>Munich706</name>
+    <name>HSS-Munich</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://munich706.github.io/2023/06/09/hello-world/"/>
-    <id>https://munich706.github.io/2023/06/09/hello-world/</id>
-    <published>2023-06-09T12:11:12.023Z</published>
-    <updated>2023-06-09T12:11:12.023Z</updated>
+    <link href="https://www.hss-munich.com/2023/12/07/hello-world/"/>
+    <id>https://www.hss-munich.com/2023/12/07/hello-world/</id>
+    <published>2023-12-07T23:08:24.210Z</published>
+    <updated>2023-12-07T23:08:24.210Z</updated>
     
     
       
@@ -29,6 +29,27 @@
         
         
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>An Elephant Sitting Still</title>
+    <link href="https://www.hss-munich.com/2023/12/07/An-Elephant-Sitting-Still/"/>
+    <id>https://www.hss-munich.com/2023/12/07/An-Elephant-Sitting-Still/</id>
+    <published>2023-12-07T22:59:54.000Z</published>
+    <updated>2023-12-07T23:08:24.206Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;“满州里动物园有一头大象，每天坐在那里。”-胡波《大象席地而坐》12月9日慕尼黑纪念放映&quot;&gt;&lt;a href=&quot;#“满州里动物园有一头大象，每天坐在那里。”-胡波《大象席地而坐》12月9日慕尼黑纪念放映&quot; class=&quot;headerlink&quot;</summary>
         
       
     
