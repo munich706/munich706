@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Munich706
+title: Hippie Screening Studio Munich
 subtitle: ''
 description: ''
 keywords:
-author: Munich706
+author: HSS-Munich
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://munich706.github.io
+url: https://www.hss-munich.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -103,6 +103,7 @@ plugin:
   - hexo-generator-category-enhance
   - hexo-generator-feed
   - hexo-asset-image
+  - hexo-asset-link
   - hexo-prism-plugin
   - hexo-toc
   # ... other plugins you'd like to enable
@@ -138,6 +139,8 @@ prism_plugin:
   line_number: true 
 
 # Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
+## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:hss-munich/hss-munich.git
+  branch: main

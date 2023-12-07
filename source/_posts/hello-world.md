@@ -36,3 +36,10 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+We can also add pictures as follows
+![pic](https://i.imgur.com/Ioiqmut.jpeg)
+![pic2](./_pictures/c408.jpg)
+
+This is a test link to the [registration form](https://forms.gle/AFXZnty14M1VpBaV9). 
+
